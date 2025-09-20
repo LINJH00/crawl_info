@@ -1,0 +1,10 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+tqdm>=4.66.1
+
+# 可选：自动绕过部分 Cloudflare JS Challenge
+cloudscraper>=1.2.71
+
+# 可选：需要动态渲染或复杂反爬时使用 Playwright
+playwright>=1.43.0
